@@ -15,7 +15,7 @@ Some issues can occur as they have not been covered in the video
    When running your data exporter it might crash as you did not install Google Cloud modules on your VM. Open VM instructions file in the repository for installing all the modules
 
 ## For unknown occurring errors 
-Please refer to this tutorial on mage I used for building the pipeline 
+Please refer to this tutorial on mage I used for building the pipeline : https://www.youtube.com/watch?v=WpQECq5Hx9g 
 
 ## 3. Additional SQL Queries 
 I added additional SQL Queries for helping you to check duplicated and missing elements in your BigQuery Tables. Feel free to change and update them. 
