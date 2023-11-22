@@ -16,3 +16,6 @@ Some issues can occur as they have not been covered in the video
 
 ## For unknown occurring errors 
 Please refer to this tutorial on mage I used for building the pipeline 
+
+## 3. Additional SQL Queries 
+I added additional SQL Queries for helping you to check duplicated and missing elements in your BigQuery Tables. Feel free to change and update them. 
